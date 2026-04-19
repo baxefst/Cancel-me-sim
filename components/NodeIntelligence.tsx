@@ -113,7 +113,7 @@ export default function NodeIntelligence({
                 marginBottom: 4,
               }}
             >
-              // NODE INTELLIGENCE
+              {/* NODE INTELLIGENCE */}
             </div>
             <div
               style={{
